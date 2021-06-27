@@ -1,5 +1,8 @@
 # Custom
-/raw-footage/**/*.*
+# Required clone of pytorch-simsiam
+0_pytorch-SimSiam
+0_unsupervised_pretrained.pth.tar
+
 
 
 
